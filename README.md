@@ -37,5 +37,5 @@
       L9110 AIA |11~   3V3| 
       L9110 AIB |12~   ~13| 
       
- Las señales de control de los motores deben de estar conectadas a los pines de PWM
+ Las señales de control de los motores deben de estar conectadas a los pines de PWM. en este caso uso como sensor de distancia el GP2Y0E03 en modo analógico puesto que es más rapido la ejecución de las ordenes en este modo que en modo I2C.
  
