@@ -41,4 +41,5 @@
  
  ## Chasis
  Se incluyen ficheros .stl para su impresion en 3D. Tambien se deja sitio para la colocación de sensores IR para detectar color del suelo.
+ ![](https://github.com/Sergiolapria/SA_Tecnologia_4_UD10/blob/main/Robot.png)
  
