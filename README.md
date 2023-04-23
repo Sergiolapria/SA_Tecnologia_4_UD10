@@ -1,7 +1,8 @@
 # SA_Tecnologia_4_UD10
  En la carpeta scr estan los programas necesarios para el correcto programa. 
-             < ARDUINO PRO MICRO >
-             
+           
+           < ARDUINO PRO MICRO >
+  
                 |TX0   RAW| Batteries +
                 |RX1   GND| Batteries -
                 |GND   RST|
@@ -14,8 +15,8 @@
                 |7      14| 
                 |8#     16| 
       L9110 AIB |9~#  #~10| 
-~ PWM
-# Analog
+
+
               < ARDUINO MICRO >
                
                 |MOSI  SCK|
